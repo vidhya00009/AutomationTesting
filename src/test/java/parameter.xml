@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite  name="Suite">
+	<parameter name = "name1" value = " vb"></parameter>
+  <test name="Test">
+    <classes>
+      <class name="testNGdemo.Parameter1">
+	  </class>
+      </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

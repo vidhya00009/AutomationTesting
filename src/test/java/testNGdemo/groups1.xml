@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test" >
+	<test name ="Test">
+		<groups> 
+			<run>
+				<exclude name = "performance">
+					
+				</exclude>
+			</run>
+		</groups>
+		<classes>
+		<class name = "testNGdemo.Groupsdemo">
+		</class>
+		</classes>
+	</test>
+</suite>
+
